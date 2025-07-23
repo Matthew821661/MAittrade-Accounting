@@ -1,0 +1,10 @@
+streamlit
+openai
+pytesseract
+Pillow
+supabase
+python-dotenv
+sqlite3
+fpdf
+pandas
+pdfplumber
